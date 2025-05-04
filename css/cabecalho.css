@@ -61,7 +61,7 @@
     grid-template-columns: 1fr 2fr 0.5fr 0.5fr 0.5fr;
   }
 
-  .cabexalho-logo {
+  .cabecalho-logo {
     grid-area: logo;
     justify-self: center;
   }
